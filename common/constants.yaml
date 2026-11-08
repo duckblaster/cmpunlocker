@@ -142,3 +142,7 @@ unlocks:
   ecc-reporting:
     patch: ecc-reporting.patch
     registers: {}
+  
+  kernel-7-cxl:
+    patch: kernel-7-cxl.patch
+    registers: {}

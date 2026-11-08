@@ -60,6 +60,7 @@ PATCH_ORDER=(
     ecc-enable.patch
     ecc-fbpa-static.patch
     ecc-reporting.patch
+    kernel-7-cxl.patch
 )
 PATCH_FILES=()
 for name in "${PATCH_ORDER[@]}"; do
